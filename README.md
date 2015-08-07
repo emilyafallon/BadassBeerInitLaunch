@@ -2,8 +2,7 @@
 Changes, fixes and updates/enhancements for the initial launch of the Badass Beer website.
 
 
-beta_site /  events.html:
 
-Issue: 
+MMmmmm - yeeeellloo Emily!
 
-
+hi 2 
